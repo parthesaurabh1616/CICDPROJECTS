@@ -1,5 +1,5 @@
 import unittest
-from app.main import add_task, list_tasks, delete_task
+from todo_cli.app.main import add_task, list_tasks, delete_task
 
 class TestTodoApp(unittest.TestCase):
 
